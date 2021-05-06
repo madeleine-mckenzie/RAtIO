@@ -1,2 +1,2 @@
 # RAtIO
-Mg optimisation code
+Mg isotope optimisation code
